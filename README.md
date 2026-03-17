@@ -12,9 +12,6 @@
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p align="center">
-  <a href="https://github.com/Nikhil-Dubey-0">
-    <img src="https://komarev.com/ghpvc/?username=Nikhil-Dubey-0&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-  </a>
   <a href="https://github.com/Nikhil-Dubey-0?tab=followers">
     <img src="https://img.shields.io/github/followers/Nikhil-Dubey-0?label=Followers&style=for-the-badge&color=6C63FF&labelColor=0d1117" alt="Followers"/>
   </a>
