@@ -228,5 +228,5 @@ Fun Facts:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&lines= Thanks+for+visiting!+Let's+build+something+amazing+%F0%9F%9A%80" alt="Footer Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&lines=_Thanks+for+visiting!+Let's+build+something+amazing+%F0%9F%9A%80" alt="Footer Typing"/>
 </p>
