@@ -172,16 +172,6 @@ Fun Facts:
   </a>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/Nikhil-Dubey-0">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nikhil-Dubey-0&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-  </a>
-</p>
-
 
 ---
 
