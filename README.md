@@ -12,6 +12,9 @@
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p align="center">
+  <a href="https://github.com/Nikhil-Dubey-0">
+    <img src="https://komarev.com/ghpvc/?username=Nikhil-Dubey-0&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+  </a>
   <a href="https://github.com/Nikhil-Dubey-0?tab=followers">
     <img src="https://img.shields.io/github/followers/Nikhil-Dubey-0?label=Followers&style=for-the-badge&color=6C63FF&labelColor=0d1117" alt="Followers"/>
   </a>
@@ -154,21 +157,21 @@ Fun Facts:
 
 <p align="center">
   <a href="https://github.com/Nikhil-Dubey-0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Dubey-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=A78BFA&text_color=c9d1d9&ring_color=6C63FF&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Dubey-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Dubey-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=A78BFA&text_color=c9d1d9&ring_color=6C63FF&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Dubey-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Nikhil-Dubey-0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Dubey-0&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=6C63FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Dubey-0&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=6C63FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&cache_seconds=1800" alt="GitHub Streak"/>
   </a>
 </p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
   <a href="https://github.com/Nikhil-Dubey-0">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-Dubey-0&bg_color=0d1117&color=6C63FF&line=A78BFA&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-Dubey-0&bg_color=0d1117&color=6C63FF&line=A78BFA&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=1800" alt="Activity Graph" width="95%"/>
   </a>
 </p>
 
@@ -228,5 +231,5 @@ Fun Facts:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&lines=_Thanks+for+visiting!+Let's+build+something+amazing+%F0%9F%9A%80" alt="Footer Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&lines=Thanks+for+visiting!+Let's+build+something+amazing+%F0%9F%9A%80" alt="Footer Typing"/>
 </p>
