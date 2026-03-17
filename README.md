@@ -12,9 +12,6 @@
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p align="center">
-  <a href="https://github.com/Nikhil-Dubey-0">
-    <img src="https://komarev.com/ghpvc/?username=Nikhil-Dubey-0&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-  </a>
   <a href="https://github.com/Nikhil-Dubey-0?tab=followers">
     <img src="https://img.shields.io/github/followers/Nikhil-Dubey-0?label=Followers&style=for-the-badge&color=6C63FF&labelColor=0d1117" alt="Followers"/>
   </a>
@@ -185,13 +182,6 @@ Fun Facts:
   </a>
 </p>
 
----
-
-## 🎓 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle_Cloud_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
 
 ---
 
@@ -202,7 +192,6 @@ Fun Facts:
 🤖 Building Agentic AI workflows with LangChain & LangGraph
 📚 Exploring RAG pipelines & LLM-powered applications
 🔬 Researching Transformer architectures & fine-tuning techniques
-🎯 Seeking AI/ML internship opportunities
 ```
 
 ---
@@ -231,5 +220,5 @@ Fun Facts:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&lines=Thanks+for+visiting!+Let's+build+something+amazing+%F0%9F%9A%80" alt="Footer Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=500&lines=_Thanks+for+visiting!+Let's+build+something+amazing+%F0%9F%9A%80" alt="Footer Typing"/>
 </p>
