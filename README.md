@@ -27,8 +27,7 @@
 ```yaml
 Name: Nikhil Dubey
 Location: Gorakhpur, Uttar Pradesh, India 🇮🇳
-Education: B.Tech in Information Technology @ MMMUT (2023–2027)
-CGPA: 8.00 / 10
+Education: B.Tech in Information Technology
 
 Current Focus:
   - Deep Learning & Neural Networks
