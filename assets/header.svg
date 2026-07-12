@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="Nikhil Dubey — AI/ML Engineer. Retrieval systems, multi-agent orchestration, LLM evaluation.">
+  <title>Nikhil Dubey — AI/ML Engineer</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="55%"  stop-color="#161a2b"/>
+      <stop offset="100%" stop-color="#1e1b3a"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#6C63FF"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#6C63FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#6C63FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <style>
+      /* Every reveal uses `forwards` so the final frame is the resting state:
+         a visitor who lands after the intro still sees a finished banner. */
+      .reveal      { opacity: 0; animation: rise .65s cubic-bezier(.2,.7,.3,1) forwards; }
+      .edge        { stroke-dasharray: 120; stroke-dashoffset: 120;
+                     animation: draw .55s cubic-bezier(.4,0,.2,1) forwards; }
+
+      @keyframes rise { from { opacity: 0; transform: translateY(10px); }
+                        to   { opacity: 1; transform: translateY(0); } }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+
+      .d1 { animation-delay: .10s } .d2 { animation-delay: .30s }
+      .d3 { animation-delay: .50s } .d4 { animation-delay: .55s }
+      .d5 { animation-delay: .80s } .d6 { animation-delay: 1.05s }
+
+      .name { font: 700 46px "Segoe UI", Inter, Helvetica, Arial, sans-serif; fill: #f0f2f8; }
+      .tag  { font: 400 16px "Segoe UI", Inter, Helvetica, Arial, sans-serif; fill: #A78BFA;
+              letter-spacing: .4px; }
+
+      /* Respect the reader's motion preference: skip straight to the end state. */
+      @media (prefers-reduced-motion: reduce) {
+        .reveal { opacity: 1; animation: none; }
+        .edge   { stroke-dashoffset: 0; animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1000" height="190" rx="12" fill="url(#bg)"/>
+  <rect x="0" y="0" width="4" height="190" fill="url(#accent)"/>
+
+  <!-- Wordmark -->
+  <text class="name reveal d1" x="56" y="86">Nikhil Dubey</text>
+  <rect class="reveal d2" x="56" y="102" width="132" height="3" rx="1.5" fill="url(#accent)"/>
+  <text class="tag reveal d3" x="56" y="135">Retrieval systems  ·  Multi-agent orchestration  ·  LLM evaluation</text>
+
+  <!-- Agent graph: fan out to two workers, fan back in to a validated output. -->
+  <g transform="translate(690, 0)" fill="none" stroke-width="1.6" stroke-linecap="round">
+    <path class="edge d3" d="M30,95 L110,45"  stroke="#6C63FF" opacity=".75"/>
+    <path class="edge d3" d="M30,95 L110,145" stroke="#6C63FF" opacity=".75"/>
+    <path class="edge d5" d="M110,45 L190,95" stroke="#6C63FF" opacity=".75"/>
+    <path class="edge d5" d="M110,145 L190,95" stroke="#6C63FF" opacity=".75"/>
+    <path class="edge d6" d="M190,95 L258,95" stroke="#A78BFA" opacity=".9"/>
+
+    <circle cx="258" cy="95" r="26" fill="url(#glow)" stroke="none" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.5s" dur=".6s" fill="freeze"/>
+    </circle>
+
+    <g stroke="#6C63FF" fill="#0d1117">
+      <circle cx="30"  cy="95"  r="0"><animate attributeName="r" from="0" to="8" begin=".45s" dur=".4s" fill="freeze"/></circle>
+      <circle cx="110" cy="45"  r="0"><animate attributeName="r" from="0" to="8" begin=".80s" dur=".4s" fill="freeze"/></circle>
+      <circle cx="110" cy="145" r="0"><animate attributeName="r" from="0" to="8" begin=".80s" dur=".4s" fill="freeze"/></circle>
+      <circle cx="190" cy="95"  r="0"><animate attributeName="r" from="0" to="8" begin="1.15s" dur=".4s" fill="freeze"/></circle>
+    </g>
+
+    <circle cx="258" cy="95" r="0" stroke="#A78BFA" stroke-width="2" fill="#0d1117">
+      <animate attributeName="r" from="0" to="10" begin="1.45s" dur=".4s" fill="freeze"/>
+      <animate attributeName="r" values="10;11.5;10" begin="2.2s" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
